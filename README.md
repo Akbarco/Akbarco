@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 
 ## Hello World, I’m Akbar.<br><br>
 I’m a web developer who enjoys building things that are clear, usable, and make sense. I care about how a website feels to use, but I also think a lot about how it’s put together and how it works behind the scenes.
