@@ -1,7 +1,11 @@
 # 💫 About Me:
 
 ## Hello World, I’m Akbar.<br><br>
-a front-end developer who enjoys building clean and intuitive user interfaces. I focus on how things look, feel, and respond to users, not just how they work behind the scenes.<br><br>I like working with modern front-end tools and learning through hands-on projects. I pay attention to layout, spacing, and small interaction details because they often make the biggest difference in user experience.<br><br>I’m currently improving my front-end skills by building projects step by step, experimenting with UI patterns, and refining how interfaces communicate with users.<br><br>I’m open to learning, feedback, and collaboration, especially on projects that value clarity, simplicity, and thoughtful design.
+I’m a web developer who enjoys building things that are clear, usable, and make sense. I care about how a website feels to use, but I also think a lot about how it’s put together and how it works behind the scenes.
+
+Most of my time goes into building projects, fixing small details, and learning through doing. I like working with modern tools, paying attention to layout and interactions, and making sure the pieces of an application connect properly.
+
+I’m still learning and improving every day, and I’m open to feedback and collaboration, especially on projects that value simplicity, good structure, and thoughtful decisions.
 
 ## 🌐 Socials:
 
